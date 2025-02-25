@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(221, 11, 116);
+}
+h1{
+    text-transform:uppercase;
+    font-size:20PX;
+    color: rgb(15, 1, 6);
+   
+}
+.poster{
+     
+     margin-top: 15%;
+     margin-left: 4%;
+     text-align: center;
+     border-color:pink;
+     border-width:2px;
+
+}
+
